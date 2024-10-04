@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842624631465",
+    "project_id": "conferencia-app",
+    "storage_bucket": "conferencia-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842624631465:android:9b5e92037b0da473d65fb8",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5mWG2x19UGWNmaZH8cqBba9VekGCzHRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
